@@ -11,7 +11,7 @@
 <h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 </h2>
 
 <a target="_blank">
-   <img align="right" height="250" width= "250" alt="GIF" src="https://cdn.discordapp.com/attachments/1048545406189047808/1056263656763043920/logopng.png" />
+   <img align="right"  alt="GIF" src="https://cdn.discordapp.com/attachments/1048545406189047808/1056263656763043920/logopng.png" />
 </a>
 
 
